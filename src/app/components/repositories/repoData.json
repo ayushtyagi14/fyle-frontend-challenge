@@ -1,0 +1,212 @@
+[
+  {
+    "title": "First Repository",
+    "desc": "THIS IS REPOSITORY DESCRIPTION. Lorem ipsum dolor sit amet consectetur adipisicing elit.harum, labore modi. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Second Repository",
+    "desc": "THIS IS REPOSITORY DESCRIPTION. Lorem ipsum dolor sit amet consectetur adipisicing elit.harum, labore modi. ",
+    "stack1": "HTML",
+    "stack2": "SCSS",
+    "stack3": "ReactJS"
+  },
+  {
+    "title": "Third Repository",
+    "desc": "THIS IS REPOSITORY DESCRIPTION. Lorem ipsum dolor sit amet consectetur adipisicing elit.harum, labore modi. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "Tailwind"
+  },
+  {
+    "title": "Fourth Repository",
+    "desc": "THIS IS REPOSITORY DESCRIPTION. Lorem ipsum dolor sit amet consectetur adipisicing elit.harum, labore modi. ",
+    "stack1": "HTML",
+    "stack2": "Angular",
+    "stack3": "NodeJS"
+  },
+  {
+    "title": "Fifth Repository",
+    "desc": "THIS IS REPOSITORY DESCRIPTION. Lorem ipsum dolor sit amet consectetur adipisicing elit.harum, labore modi. ",
+    "stack1": "JavaScript",
+    "stack2": "CSS",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Sixth Repository",
+    "desc": "Eaque autem asperiores maiores. Dolores dolorum asperiores sed qui voluptate. Delectus, harum. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Seventh Repository",
+    "desc": "Eaque autem asperiores maiores. Dolores dolorum asperiores sed qui voluptate. Delectus, harum. ",
+    "stack1": "React",
+    "stack2": "JavaScript",
+    "stack3": "Redux"
+  },
+  {
+    "title": "Eight Repository",
+    "desc": "Eaque autem asperiores maiores. Dolores dolorum asperiores sed qui voluptate. Delectus, harum. ",
+    "stack1": "TyoeScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Ninth Repository",
+    "desc": "Eaque autem asperiores maiores. Dolores dolorum asperiores sed qui voluptate. Delectus, harum. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "CSS"
+  },
+  {
+    "title": "Tenth Repository",
+    "desc": "Eaque autem asperiores maiores. Dolores dolorum asperiores sed qui voluptate. Delectus, harum. ",
+    "stack1": "JavaScript",
+    "stack2": "React",
+    "stack3": "NodeJS"
+  },
+  {
+    "title": "Eleventh Repository",
+    "desc": "Eaque autem asperiores maiores. Dolores dolorum asperiores sed qui voluptate. Delectus, harum. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "Tailwind"
+  },
+  {
+    "title": "Twelth Repository",
+    "desc": "Fugiat voluptates dolores vero ratione consequuntur amet saepe perspiciatis, architecto natus ",
+    "stack1": "HTML",
+    "stack2": "React",
+    "stack3": "Python"
+  },
+  {
+    "title": "Thirteenth Repository",
+    "desc": "Fugiat voluptates dolores vero ratione consequuntur amet saepe perspiciatis, architecto natus ",
+    "stack1": "JavaScript",
+    "stack2": "HTML",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Fourteenth Repository",
+    "desc": "Fugiat voluptates dolores vero ratione consequuntur amet saepe perspiciatis, architecto natus ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "CSS"
+  },
+  {
+    "title": "Fifteenth Repository",
+    "desc": "Fugiat voluptates dolores vero ratione consequuntur amet saepe perspiciatis, architecto natus ",
+    "stack1": "HTML",
+    "stack2": "Angular",
+    "stack3": "Tailwind"
+  },
+  {
+    "title": "Sixteenth  Repository",
+    "desc": "Fugiat voluptates dolores vero ratione consequuntur amet saepe perspiciatis, architecto natus ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Seventeenth Repository",
+    "desc": "Fugiat voluptates dolores vero ratione consequuntur amet saepe perspiciatis, architecto natus ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "Eighteenth Repository",
+    "desc": "Nam neque illum quisquam a possimus earum omnis, tempora recusandae error qui laboriosam asperiores. ",
+    "stack1": "JavaScript",
+    "stack2": "CSS",
+    "stack3": "NodeJS"
+  },
+  {
+    "title": "Nineteenth Repository",
+    "desc": "Nam neque illum quisquam a possimus earum omnis, tempora recusandae error qui laboriosam asperiores. ",
+    "stack1": "HTML",
+    "stack2": "Angular",
+    "stack3": "NodeJS"
+  },
+  {
+    "title": "Twenty Repository",
+    "desc": "Nam neque illum quisquam a possimus earum omnis, tempora recusandae error qui laboriosam asperiores. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "TwentyOne Repository",
+    "desc": "Nam neque illum quisquam a possimus earum omnis, tempora recusandae error qui laboriosam asperiores. ",
+    "stack1": "TyoeScript",
+    "stack2": "Angular",
+    "stack3": "Python"
+  },
+  {
+    "title": "TwentyTwo Repository",
+    "desc": "Nam neque illum quisquam a possimus earum omnis, tempora recusandae error qui laboriosam asperiores. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "TwentyThree Repository",
+    "desc": "Nam neque illum quisquam a possimus earum omnis, tempora recusandae error qui laboriosam asperiores. ",
+    "stack1": "React",
+    "stack2": "Tailwind",
+    "stack3": "JavaScript"
+  },
+  {
+    "title": "TwentyFour Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "HTML",
+    "stack2": "Python",
+    "stack3": "VueJS"
+  },
+  {
+    "title": "TwentyFive Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "JavaScript",
+    "stack2": "Angular",
+    "stack3": "AngularJS"
+  },
+  {
+    "title": "TwentySix Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "CSS",
+    "stack2": "Angular",
+    "stack3": "Java"
+  },
+  {
+    "title": "TwentySeven Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "TypeScript",
+    "stack2": "Angular",
+    "stack3": "MongoDB"
+  },
+  {
+    "title": "TwentyEigth Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "CSS",
+    "stack2": "JavaScript",
+    "stack3": "ReactJS"
+  },
+  {
+    "title": "TwentyNine Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "VueJS",
+    "stack2": "NodeJS",
+    "stack3": "Java"
+  },
+  {
+    "title": "Thirty Repository",
+    "desc": "Harum, labore modi quod ratione mollitia, dolore eaque a natus ipsa. Beatae a soluta reprehenderit ad nam. ",
+    "stack1": "TypeScript",
+    "stack2": "Angular",
+    "stack3": "NodeJS"
+  }
+]

@@ -1,0 +1,29 @@
+<div class="dark:bg-slate-300">
+  <div class="md:flex p-12 md:p-0 flex-wrap">
+    <div
+      class="flex-wrap border lg:w-2/5 p-10 m-10 font-Poppins"
+      *ngFor="
+        let repo of repos
+          | paginate
+            : { itemsPerPage: 6, currentPage: page, totalItems: totalLength }
+      "
+    >
+      <h1 class="font-bold lg:ml-5">{{ repo.title }}</h1>
+      <p class="mt-5 ml-5 text-slate-700 dark:text-slate-500">
+        {{ repo.desc }}
+      </p>
+      <button class="m-5 border p-2 rounded bg-sky-600 text-white">
+        {{ repo.stack1 }}
+      </button>
+      <button class="m-5 border p-2 rounded bg-sky-600 text-white">
+        {{ repo.stack2 }}
+      </button>
+      <button class="m-5 border p-2 rounded bg-sky-600 text-white">
+        {{ repo.stack3 }}
+      </button>
+    </div>
+  </div>
+  <div class="text-center p-8">
+    <pagination-controls (pageChange)="onPageChange($event)"></pagination-controls>
+  </div>
+</div>
